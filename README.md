@@ -30,3 +30,4 @@
 ⭐ <code>Секанс **sec α**</code> - отношение гипотенузы к прилежащему катету,
 
 ⭐ <code>Косеканс **cosec α**</code> - отношение гипотенузы к противолежащему катету.
+![six_trigonometry_functions.png](media/pictures/six_trigonometry_functions.png)  
