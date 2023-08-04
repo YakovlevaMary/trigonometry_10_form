@@ -354,7 +354,34 @@ ctg(β) = − ctg(180 − β)
 ## Формулы сложения
 
 Тригонометрические формулы сложения показывают то, как тригонометрические функции суммы или разности двух углов находят свое выражение через тригонометрические функции этих углов. Данные формулы являются базой для вывода формул двойного и тройного угла, а также понижения степени.
+
 ![summarizing_formulas.png](media/cheat_sheets/summarizing_formulas.png)
+
+## Формулы двойного угла  
+
+Формулы двойного угла выражают синус, косинус, тангенс и котангенс угла _2α_ через тригонометрические функции угла. Данные формулы следуют из формул сложения. Формулы двойного угла используются преимущественно для преобразования тригонометрических выражений.
+
+![double_angle_formulas.png](media/cheat_sheets/double_angle_formulas.png)
+
+## Формулы тройного угла  
+
+По аналогии с формулами двойного угла мы можем получить формулы тройного угла. Для этого опять-таки используются формулы сложения, а также формулы двойного угла.
+
+![triple_angle_formulas.png](media/cheat_sheets/triple_angle_formulas.png)
+
+## Формулы понижения степени  
+
+Тригонометрические формулы понижения степени дают возможность понизить степени тригонометрических функций до первой. Эти формулы помогают переходить от натуральных степеней тригонометрических функций к синусам и косинусам в первой степени, но кратных углов.
+
+![reduction_formulas.png](media/cheat_sheets/reduction_formulas.png)
+
+## Формулы преобразования суммы в произведение
+
+![sum_to_product_formulas.png](media/cheat_sheets/sum_to_product_formulas.png)
+
+## Формулы преобразования произведения в сумму
+
+![product_to_sum_formulas.png](media/cheat_sheets/product_to_sum_formulas.png)
 
 ## Лайфхаки и советы
 Стоит запомнить основные методы решения заданий по тригонометрии.   
@@ -434,7 +461,7 @@ sinx ⋅ cosx + sinx ⋅ cosx = 2sinx ⋅ cosx
 | **ОПИСАНИЕ** | **ССЫЛКА** |
 |:---------:|:---------:|
 | Видеолекции по темам к ЕГЭ| [http://cos-cos.ru/](http://cos-cos.ru/)| 
-| HTML color names| [https://www.w3schools.com/tags/ref_colornames.asp](https://www.w3schools.com/tags/ref_colornames.asp) |
+| Формулы по тригонометрии| [https://educon.by/index.php/materials/math/trigonometria](https://educon.by/index.php/materials/math/trigonometria) |
 | CSS color names| [https://doka.guide/css/web-colors/#nazvanie-cveta](https://doka.guide/css/web-colors/#nazvanie-cveta) | 
 | Web gradients| [https://webgradients.com/](https://webgradients.com/) | 
 | Lists in HTML | [https://html5book.ru/html-lists/](https://html5book.ru/html-lists/) | 
