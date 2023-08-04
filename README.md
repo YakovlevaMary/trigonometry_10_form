@@ -267,7 +267,16 @@ ctg(β) = − ctg(180 − β)
 
 #### Пример 1.
 
+<details>
+  <summary><b>Решение</summary></b>  
+</details>
+    
+#### Пример 2.
 
+<details>
+  <summary><b>Решение</summary></b>  
+</details>
+    
 </details>
 
 
