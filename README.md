@@ -502,6 +502,10 @@ ctg(β) = − ctg(180 − β)
 arccos a = x   ⇒
 cos x = a,    |a| ≤ 1,  x ∈ [0; π]
 ```
+Графическое обоснование решения уравнения _cos x = a_ представлено на рисунке.  
+
+![graph_cosx.png](media/images/graph_cosx.png)  
+
 #### Пример 1.  
 Определите, чему равен arccos $\frac{√2}{2}$.
 
@@ -544,6 +548,10 @@ _x_ = ± arccos $\frac{2}{5}$ + 2πk, k ∈ Z.
 arcsin a = x   ⇒
 sin x = a,    |a| ≤ 1,  x ∈ [−π/2; π/2]
 ```
+Графическое обоснование решения уравнения _sin x = a_ представлено на рисунке.  
+
+![graph_sinx.png](media/images/graph_sinx.png)  
+
 #### Пример 1.  
 Определите, чему равен arcsin $\frac{1}{2}$.
 
@@ -571,6 +579,54 @@ sin x = a,    |a| ≤ 1,  x ∈ [−π/2; π/2]
     
 Используем формулу _x_ = $(−1)^k$ arcsina + πk, k ∈ Z и получаем ответ: 
 _x_ = $(−1)^k$ $\frac{π}{6}$ + πk, k ∈ Z.   
+
+</details>
+
+### 3. Арктангенс и уравнение _tg x = a_
+Арктангенс  в переводе с латинского означает «дуга и тангенс». Это обратная функция для функции тангенса угла.  
+
+![arctg.png](media/images/arctg.png)  
+
+arctg _a_ — это такое число из отрезка (− $\frac{π}{2}$; $\frac{π}{2}$), тангенс которого равен _a_.
+
+Говоря иначе:
+```bash
+arctg a = x   ⇒
+tg x = a,   x ∈ (−π/2; π/2)
+```
+
+Графическое обоснование решения уравнения _tg x = a_ представлено на рисунке.  
+
+![graph_tgx.png](media/images/graph_tgx.png)  
+
+![arctg_theorem.png](media/images/arctg_theorem.png)  
+
+### 4. Арккотангенс и уравнение _ctg x = a_
+Арктангенс  - это обратная функция для функции котангенса угла.  
+
+![arcctg.png](media/images/arcctg.png)  
+
+arcctg _a_ — это такое число из отрезка (0; π), котангенс которого равен _a_.
+
+Говоря иначе:
+```bash
+arcctg a = x   ⇒
+ctg x = a,   x ∈ (0; π)
+```
+Графическое обоснование решения уравнения _ctg x = a_ представлено на рисунке.  
+
+![graph_ctgx.png](media/images/graph_ctgx.png)  
+
+![arcctg_theorem.png](media/images/arcctg_theorem.png)  
+
+#### Пример 1.  
+Решить уравнение _tg x_ = 2. 
+
+<details>
+  <summary><b>Решение</summary></b> 
+    
+Используем формулу _x_ = arctg _a_ + πk, k ∈ Z и получаем ответ: 
+_x_ = arctg 2 + πk, k ∈ Z.   
 
 </details>
 
