@@ -745,8 +745,10 @@ sinx ⋅ cosx + sinx ⋅ cosx = 2sinx ⋅ cosx
 |:---------:|:---------:|
 | Видеолекции по темам к ЕГЭ| [http://cos-cos.ru/](http://cos-cos.ru/)| 
 | Формулы по тригонометрии| [https://educon.by/index.php/materials/math/trigonometria](https://educon.by/index.php/materials/math/trigonometria) |
+| Формулы по тригонометрии| [https://www.resolventa.ru/trigonometricheskie-formuly](https://www.resolventa.ru/trigonometricheskie-formuly) |
 | Краткая теория к ЕГЭ| [https://ege.sdamgia.ru/handbook](https://ege.sdamgia.ru/handbook) | 
 | Простейшие тригонометрические уравнения | [https://www.resolventa.ru/trigonometricheskie-uravnenija/](https://www.resolventa.ru/index.php/trigonometricheskie-uravnenija) | 
+| Графики тригонометрических функций| [https://www.resolventa.ru/grafiki-trigonometricheskikh-funktsij](https://www.resolventa.ru/grafiki-trigonometricheskikh-funktsij) |
 
 [Назал к содержанию](#-содержание)
 
