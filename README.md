@@ -387,17 +387,20 @@ ctg(β) = − ctg(180 − β)
 
 ## Теорема синусов
 > Теорема синусов: в произвольном треугольнике стороны пропорциональны синусам противолежащих углов.
-![sinus_theorem.png](media/cheat_sheets/sinus_theorem.png)  
-![sinus_theorem_formula.png](media/cheat_sheets/sinus_theorem_formula.png)
+
+![sinus_theorem.png](media/images/sinus_theorem.png)  
+![sinus_theorem_formula.png](media/images/sinus_theorem_formula.png)
 
 > Расширенная теорема синусов: отношение стороны к синусу противолежащего угла равно двум радиусам описанной вокруг данного треугольника окружности.
-![extended_sinus_theorem.png](media/cheat_sheets/extended_sinus_theorem.png)  
-![extended_sinus_theorem_formula.png](media/cheat_sheets/extended_sinus_theorem_formula.png)
+
+![extended_sinus_theorem.png](media/images/extended_sinus_theorem.png)  
+![extended_sinus_theorem_formula.png](media/images/extended_sinus_theorem_formula.png)
 
 ## Теорема косинусов
 > Теорема косинусов: Квадрат стороны треугольника равен сумме квадратов двух других сторон минус удвоенное произведение этих сторон на косинус угла между ними.
-![cosinus_theorem.png](media/cheat_sheets/cosinus_theorem.png)  
-![cosinus_theorem_formula.png](media/cheat_sheets/cosinus_theorem_formula.png)
+
+![cosinus_theorem.png](media/images/cosinus_theorem.png)  
+![cosinus_theorem_formula.png](media/images/cosinus_theorem_formula.png)
 
 
 ## Лайфхаки и советы
