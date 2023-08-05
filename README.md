@@ -14,6 +14,7 @@
 - [Формулы преобразования произведения в сумму](#формулы-преобразования-произведения-в-сумму)
 - [Теорема синусов](#теорема-синусов)
 - [Теорема косинусов](#теорема-косинусов)
+- [Тригонометрические уравнения](#тригонометрические-уравнения)
 - [Лайфхаки и советы](#лайфхаки-и-советы)
 - [FAQ](#faq)
 - [Полезные ссылки](#полезные-ссылки)
@@ -485,6 +486,62 @@ ctg(β) = − ctg(180 − β)
 ![cosinus_theorem.png](media/images/cosinus_theorem.png)  
 ![cosinus_theorem_formula.png](media/images/cosinus_theorem_formula.png)
 
+## Тригонометрические уравнения
+> **Тригонометрическое уравнение** — уравнение, содержащее неизвестное под знаком тригонометрической функции.  
+> Уравнения вида _sinx = a_, _cosx = a_, _tgx = a_, _ctgx = a_ называются простейшими тригонометрическими уравнениями.
+
+### 1. Арккосинус и уравнение _cos x = a_
+Арккосинус  в переводе с латинского означает «дуга и косинус». Это обратная функция для функции косинуса угла.  
+
+![arccos.png](media/images/v.png)  
+
+Если |a| ≤ 1, то _arccos a_ — это такое число из отрезка [0; π], косинус которого равен _а_.
+
+Говоря иначе:
+```bash
+arccos a = x   ⇒
+cosx = a,    |a| ≤ 1,  x ∈ [0; π]
+```
+#### Пример 1.  
+Определите, чему равен arccos $\frac{√2}{2}$.
+
+<details>
+  <summary><b>Решение</summary></b>  
+
+Выражение arccos $\frac{√2}{2}$ показывает, что косинус угла _x_ равен $\frac{√2}{2}$. То есть известно, что _cos x_ = $\frac{√2}{2}$ . 
+Далее просто находим точку этого косинуса на числовой окружности, что и является ответом:
+
+![cosx.png](media/images/cosx.png)  
+
+Число, являющееся значением на оси _x_, соответствует точке $\frac{π}{4}$ на числовой окружности.  
+Значит, arccos $\frac{√2}{2}$ =  $\frac{π}{4}$. 
+
+</details>
+
+> Теорема
+
+Для любого _a_ ∈ [−1; 1] выполняется равенство arccos _a_ + arccos _(−a)_ = _π_.
+
+Частные случаи:  
+
+1. cosx = 0   ⇒  _x_ = $\frac{π}{2}$ + πk, k ∈ Z;
+2. cosx = 1   ⇒  _x_ = 2πk, k ∈ Z;
+3. cosx = −1  ⇒  _x_ = π + 2πk, k ∈ Z.
+
+
+
+#### Пример 2.  
+Решить уравнение _cos x_ = $\frac{2}{5}$. 
+
+<details>
+  <summary><b>Решение</summary></b> 
+    
+Используем формулу _x_ = ± arccos _a_ + 2πk, k ∈ Z и получаем ответ: 
+_x_ = ± arccos $\frac{2}{5}$ + 2πk, k ∈ Z.   
+
+</details>
+
+
 
 ## Лайфхаки и советы  
 ### №1. 
@@ -602,10 +659,7 @@ sinx ⋅ cosx + sinx ⋅ cosx = 2sinx ⋅ cosx
 | Видеолекции по темам к ЕГЭ| [http://cos-cos.ru/](http://cos-cos.ru/)| 
 | Формулы по тригонометрии| [https://educon.by/index.php/materials/math/trigonometria](https://educon.by/index.php/materials/math/trigonometria) |
 | Краткая теория к ЕГЭ| [https://ege.sdamgia.ru/handbook](https://ege.sdamgia.ru/handbook) | 
-| Web gradients| [https://webgradients.com/](https://webgradients.com/) | 
-| Lists in HTML | [https://html5book.ru/html-lists/](https://html5book.ru/html-lists/) | 
-| 30 CSS selectors | [https://webdesign.tutsplus.com/ru/the-30-css-selectors-you-must-memorize--net-16048t](https://webdesign.tutsplus.com/ru/the-30-css-selectors-you-must-memorize--net-16048t) |
-| HTML Special Characters| [https://html5book.ru/specsimvoly-html/](https://html5book.ru/specsimvoly-html/) | 
+| Простейшие тригонометрические уравнения | [https://www.resolventa.ru/trigonometricheskie-uravnenija/](https://www.resolventa.ru/index.php/trigonometricheskie-uravnenija) | 
 
 [Назал к содержанию](#-содержание)
 
