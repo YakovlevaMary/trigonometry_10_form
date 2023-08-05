@@ -402,7 +402,7 @@ ctg(β) = − ctg(180 − β)
 Еще раз проговорим этот важный момент: с точки зрения формулы приведения $\frac{7π}{2}$ - это тоже самое, что и $\frac{3π}{2}$. Почему? Потому что $\frac{7π}{2}$ \= $\frac{3π+4π}{2}$ \= $\frac{3π}{2}$ + $\frac{4π}{2}$ \= $\frac{3π}{2}$ + _2π_. Иными словами, они отличаются ровно на один оборот _2π_. А на значения тригонометрических функций количество оборотов никак не влияет:
 ```bash
 cos t = cos(t+2π) = cos(t+4π) = cos(t+6π) =...= cos(t−2π) = cos(t−4π) = cos(t−6π) = …  
-sin t = sin(t+2π)=sin(t+4π)=sin(t+6π)=...=sin(t−2π)=sin(t−4π)=sin(t−6π) = …
+sin t = sin(t+2π) = sin(t+4π) = sin(t+6π) =...= sin(t−2π) = sin(t−4π) = sin(t−6π) = …
 ```
 Аналогично с тангенсом и котангенсом (только у них «оборот» равен π).
 ```bash
@@ -420,7 +420,7 @@ ctg t = ctg(t+π) = ctg(t+2π) = ctg(t+3π)=...=ctg(t−π) = ctg(t−2π) = ctg
 Например,  
 cos($\frac{π}{3}$− _a_) = cos $\frac{π}{3}$ cos _a_ + sin $\frac{π}{3}$ sin _a_ = $\frac{1}{2}$ cos _a_ + $\frac{√3}{2}$ sin _a_.
 
-#### Question №2
+#### Question №3
 Вопрос: Как доказывать тождество??   
 
 Ответ: Чтобы доказать тождество нужно доказать, что его правая и левая части равны, т.е. свести его к виду «выражение» = «такое же выражение». 
@@ -462,7 +462,7 @@ sinx ⋅ cosx + sinx ⋅ cosx = 2sinx ⋅ cosx
 |:---------:|:---------:|
 | Видеолекции по темам к ЕГЭ| [http://cos-cos.ru/](http://cos-cos.ru/)| 
 | Формулы по тригонометрии| [https://educon.by/index.php/materials/math/trigonometria](https://educon.by/index.php/materials/math/trigonometria) |
-| CSS color names| [https://doka.guide/css/web-colors/#nazvanie-cveta](https://doka.guide/css/web-colors/#nazvanie-cveta) | 
+| Краткая теория к ЕГЭ| [https://ege.sdamgia.ru/handbook](https://ege.sdamgia.ru/handbook) | 
 | Web gradients| [https://webgradients.com/](https://webgradients.com/) | 
 | Lists in HTML | [https://html5book.ru/html-lists/](https://html5book.ru/html-lists/) | 
 | 30 CSS selectors | [https://webdesign.tutsplus.com/ru/the-30-css-selectors-you-must-memorize--net-16048t](https://webdesign.tutsplus.com/ru/the-30-css-selectors-you-must-memorize--net-16048t) |
