@@ -462,7 +462,7 @@ sinx ⋅ cosx + sinx ⋅ cosx = 2sinx ⋅ cosx
 |:---------:|:---------:|
 | Видеолекции по темам к ЕГЭ| [http://cos-cos.ru/](http://cos-cos.ru/)| 
 | Формулы по тригонометрии| [https://educon.by/index.php/materials/math/trigonometria](https://educon.by/index.php/materials/math/trigonometria) |
-| CSS color names| [https://doka.guide/css/web-colors/#nazvanie-cveta](https://doka.guide/css/web-colors/#nazvanie-cveta) | 
+| Краткая теория к ЕГЭ| [https://ege.sdamgia.ru/handbook](https://ege.sdamgia.ru/handbook) | 
 | Web gradients| [https://webgradients.com/](https://webgradients.com/) | 
 | Lists in HTML | [https://html5book.ru/html-lists/](https://html5book.ru/html-lists/) | 
 | 30 CSS selectors | [https://webdesign.tutsplus.com/ru/the-30-css-selectors-you-must-memorize--net-16048t](https://webdesign.tutsplus.com/ru/the-30-css-selectors-you-must-memorize--net-16048t) |
